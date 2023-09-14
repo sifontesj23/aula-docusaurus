@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaula=self.webpackChunkaula||[]).push([[9650],{9916:a=>{a.exports=JSON.parse('{"permalink":"/auladeploy/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
